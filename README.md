@@ -1,1 +1,1 @@
-# DataVisualizatiponOfGA
+# DataVisualizationOfGA
