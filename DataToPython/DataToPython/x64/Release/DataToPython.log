@@ -1,0 +1,8 @@
+﻿  _core.c
+e:\datavisualizationofga-master\datavisualizationofga\datatopython\datatopython\ga.h(160): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  18 of 18 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DataToPython.vcxproj -> E:\DataVisualizationOfGA-master\DataVisualizationOfGA\DataToPython\x64\Release\DataToPython.dll
